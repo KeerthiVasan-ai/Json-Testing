@@ -1,0 +1,36 @@
+{
+  "Appetizers": {
+    "type": "MenuCategory",
+    "menu": [
+      "Spinach Artichoke Dip",
+      "Hummus",
+      "Fried Calamari Rings",
+      "Fried Mushrooms"
+    ]
+  },
+  "Salads": {
+    "type": "MenuCategory",
+    "menu": [
+      "Greek",
+      "Caesar",
+      "Mediterranean Tuna Salad",
+      "Grilled Chicken Salad"
+    ]
+  },
+  "Drinks": {
+    "type": "MenuCategory",
+    "menu": [
+      "Water",
+      "Coke",
+      "Beer",
+      "Iced Tea"
+    ]
+  },
+  "Dessert": {
+    "type": "MenuCategory",
+    "menu": [
+      "Baklawa",
+      "Ice cream"
+    ]
+  }
+}
